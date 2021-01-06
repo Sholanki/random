@@ -3,7 +3,7 @@ package random
 import (
 	"errors"
 
-	"github.com/xh3b4sd/tracer"
+	"github.com/Sholanki/tracer"
 )
 
 // executionFailedError is an error type for unexpected situations where further

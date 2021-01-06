@@ -9,8 +9,8 @@ import (
 	"testing"
 	"time"
 
-	"github.com/xh3b4sd/budget"
-	"github.com/xh3b4sd/tracer"
+	"github.com/Sholanki/budget"
+	"github.com/Sholanki/tracer"
 )
 
 func Test_Random_NMax_Error_RandFunc(t *testing.T) {

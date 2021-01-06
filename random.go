@@ -7,8 +7,8 @@ import (
 	"strings"
 	"time"
 
-	"github.com/xh3b4sd/budget"
-	"github.com/xh3b4sd/tracer"
+	"github.com/Sholanki/budget"
+	"github.com/Sholanki/tracer"
 )
 
 type Config struct {
